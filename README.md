@@ -1,21 +1,317 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building scalable, production-level full-stack applications using Django, MERN stack, and RAG (Retrieval-Augmented Generation) systems.<br><br>💡 My expertise<br>I’m a Full Stack Software Engineer focused on designing modern web architectures, combining powerful backends with premium UI/UX experiences.<br><br>🧠 Featured Project<br>FYP – Budget-Based AI Build Recommender<br>An intelligent system that recommends optimized builds based on user budget using AI-driven logic and data processing.<br><br>🌐 Portfolio<br>Check out all my projects here:<br>👉 muhammad-subhan-hussnain-portfolio.vercel.app<br><br>👯 I’m open to collaborate on<br><br>AI-powered applications (RAG / LLM integrations)<br>Full-stack SaaS platforms<br>High-quality frontend systems (React + modern UI)<br><br>🌱 Currently exploring<br><br>Advanced system design & scalable architectures<br>AI integration in web apps (RAG pipelines)<br>Backend optimization & performance tuning<br><br>💬 Ask me about<br>Django, MERN Stack, REST APIs, Full Stack Development, and modern frontend design<br><br>🎓 Education<br>BS Software Engineering — 8th Semester<br><br>⚡ Mindset<br>I focus on building real-world, production-ready systems — not just projects.
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=230&section=header&text=Muhammad%20Subhan%20Hussnain&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN%20%7C%20Django%20%7C%20AI%20%26%20RAG&descSize=18&descAlignY=58&animation=fadeIn" alt="Muhammad Subhan Hussnain Header"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sheikhsubhan001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-subhan-hussnain-13b2b2310/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadsubhan1045@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+production-ready+full-stack+applications;Creating+AI-powered+web+experiences;Designing+scalable+REST+APIs+and+modern+interfaces;Turning+real-world+problems+into+software+products" alt="Typing SVG"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sheikhsubhan001&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sheikhsubhan001&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhsubhan001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0EA5E9?style=for-the-badge\&logo=firefox\&logoColor=white)](https://muhammadsubhan.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-subhan-hussnain-13b2b2310/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:muhammadsubhan1045@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/sheikhsubhan001)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sheikhsubhan001\&label=Profile%20Views\&color=0ea5e9\&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/sheikhsubhan001?label=Followers\&style=flat-square\&color=1e3a8a)
+![GitHub Stars](https://img.shields.io/github/stars/sheikhsubhan001?affiliations=OWNER\&label=Total%20Stars\&style=flat-square\&color=0ea5e9)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sheikhsubhan001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I am a **Full-Stack Software Engineer** focused on building scalable, secure, and production-ready web applications using the **MERN stack, Django REST Framework, React.js, and AI-powered systems**.
+
+I enjoy transforming complex requirements into reliable software products by combining strong backend architecture, clean REST APIs, efficient state management, secure authentication, and premium user interfaces.
+
+* 🔭 Building production-level full-stack and AI-powered applications
+* 🧠 Working with **Retrieval-Augmented Generation, OpenAI, vector databases, and recommendation systems**
+* 🏗️ Interested in scalable architecture, backend optimization, and system design
+* 🎨 Creating responsive and user-focused interfaces with React and Tailwind CSS
+* 🔐 Implementing JWT authentication, role-based permissions, and secure APIs
+* 🤝 Open to collaborating on SaaS platforms, AI products, and modern web applications
+* 🎓 BS Software Engineering graduate from the University of Management and Technology
+* 📍 Based in Lahore, Pakistan
+* 🌐 Portfolio: [muhammadsubhan.dev](https://muhammadsubhan.dev)
+
+> **My goal is to build real-world software products—not just demonstration projects.**
+
+---
+
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Full-Stack Applications
+
+* Scalable MERN and Django applications
+* RESTful API architecture
+* Authentication and authorization
+* Role-based dashboards
+* Real-time communication
+* Payment gateway integration
+* Cloud deployment and configuration
+
+</td>
+<td width="50%" valign="top">
+
+### AI-Powered Systems
+
+* Retrieval-Augmented Generation
+* AI assistants and chatbots
+* Vector search and embeddings
+* Recommendation systems
+* Budget-aware AI solutions
+* Rule-based validation engines
+* OpenAI API integrations
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ CoreForges
+
+**AI-Powered PC Build Recommendation Platform**
+
+A full-stack e-commerce platform that generates budget-aware and compatibility-validated PC builds using RAG, OpenAI, real-time product data, and rule-based validation.
+
+**Key features:**
+
+* AI-generated PC configurations
+* Component compatibility validation
+* RAG-powered support chatbot
+* KNN product recommendations
+* Stripe checkout and coupons
+* PDF invoice generation
+* Complete admin dashboard
+
+**Technologies:** React.js, Django REST Framework, OpenAI, ChromaDB, SQLite, Stripe, AWS
+
+[![Live Website](https://img.shields.io/badge/Live%20Website-Visit-0EA5E9?style=flat-square\&logo=googlechrome\&logoColor=white)](https://coreforges.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 Hire My Room
+
+**Complete Property Rental Platform**
+
+A multi-panel property rental application developed for clients, property owners, and administrators with booking, communication, approval, and property-management workflows.
+
+**Key features:**
+
+* Client, owner, and admin panels
+* Property and room management
+* Real-time owner-client messaging
+* Booking and approval workflow
+* Reviews and rating system
+* Secure role-based authentication
+* Responsive interfaces
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB, Socket.io, Cloudinary, JWT
+
+[![Client Panel](https://img.shields.io/badge/Client%20Panel-Open-0EA5E9?style=flat-square\&logo=vercel\&logoColor=white)](https://hire-my-room-client.vercel.app)
+[![Owner Panel](https://img.shields.io/badge/Owner%20Panel-Open-1E3A8A?style=flat-square\&logo=vercel\&logoColor=white)](https://hire-my-room-owner.vercel.app)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Flixify
+
+**Modern Movie Streaming Platform**
+
+A responsive OTT-style web application designed for browsing movies, managing subscriptions, processing payments, and delivering a modern entertainment experience.
+
+**Key features:**
+
+* Movie and category management
+* Subscription-based access
+* Secure JWT authentication
+* Stripe payment integration
+* Admin content management
+* Responsive streaming interface
+* Cloud-based media management
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB, Stripe, JWT, Cloudinary
+
+[![Live Website](https://img.shields.io/badge/Live%20Website-Visit-0EA5E9?style=flat-square\&logo=googlechrome\&logoColor=white)](https://flixify.muhammadsubhan.dev)
+
+</td>
+<td width="50%" valign="top">
+
+### 📅 UMT Scheduler
+
+**University Timetable Management Application**
+
+A timetable and course-management platform developed to help students organize lectures, instructors, sections, rooms, and weekly academic schedules.
+
+**Key features:**
+
+* Weekly timetable interface
+* Course and instructor management
+* Lecture time and room tracking
+* Authentication system
+* Responsive student dashboard
+* Organized academic workflow
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+
+[![Live Website](https://img.shields.io/badge/Live%20Website-Visit-0EA5E9?style=flat-square\&logo=googlechrome\&logoColor=white)](https://time-table-steel-tau.vercel.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Technical Skills
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,cs&theme=dark" alt="Programming Languages"/>
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind,redux&theme=dark" alt="Frontend Technologies"/>
+</p>
+
+`React Router` · `Zustand` · `React Query` · `Context API` · `DaisyUI` · `Framer Motion` · `Responsive Design`
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,npm,nginx&theme=dark" alt="Backend Technologies"/>
+</p>
+
+`Django REST Framework` · `RESTful APIs` · `JWT Authentication` · `Role-Based Access Control` · `Socket.io` · `Nodemailer`
+
+### Databases and AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,tensorflow,pytorch,sklearn&theme=dark" alt="Database and AI Technologies"/>
+</p>
+
+`ChromaDB` · `Vector Retrieval` · `Retrieval-Augmented Generation` · `OpenAI API` · `Sentence Transformers` · `KNN`
+
+### Cloud, Deployment and DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify,docker,git,github&theme=dark" alt="Cloud and DevOps Technologies"/>
+</p>
+
+`MongoDB Atlas` · `Railway` · `Render` · `AWS EC2` · `AWS Amplify` · `CI/CD Fundamentals`
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,selenium&theme=dark" alt="Development Tools"/>
+</p>
+
+`GitHub` · `Trello` · `Jira` · `Canva` · `Stripe` · `Cloudinary`
+
+---
+
+## 🧠 Currently Exploring
+
+* Advanced system design and scalable application architecture
+* Production-ready RAG pipelines and AI agent workflows
+* Backend performance optimization and caching
+* Microservices and distributed systems
+* Cloud-native application deployment
+* Automated testing and CI/CD pipelines
+* AI integration in modern SaaS products
+
+---
+
+## 🤝 Open to Collaboration
+
+I am interested in collaborating on:
+
+* AI-powered web applications
+* RAG and LLM integrations
+* Full-stack SaaS platforms
+* MERN and Django projects
+* E-commerce and subscription platforms
+* Real-time communication systems
+* High-quality React applications
+* Open-source software projects
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sheikhsubhan001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Muhammad Subhan's GitHub Statistics"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=sheikhsubhan001&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8" alt="Muhammad Subhan's GitHub Streak"/>
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhsubhan001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&langs_count=8" alt="Most Used Languages"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sheikhsubhan001&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhsubhan001&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/>
+
+</div>
+
+---
+
+## ✍️ Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+I am always interested in discussing software engineering, AI-powered applications, collaboration opportunities, and innovative product ideas.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadsubhan.dev-0EA5E9?style=for-the-badge\&logo=firefox\&logoColor=white)](https://muhammadsubhan.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Subhan-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-subhan-hussnain-13b2b2310/)
+[![Gmail](https://img.shields.io/badge/Gmail-muhammadsubhan1045-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:muhammadsubhan1045@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sheikhsubhan001-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sheikhsubhan001)
+
+<br/><br/>
+
+### “Build software that solves real problems, delivers value, and is ready for the real world.”
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E3A8A,100:0F172A&height=120&section=footer"/>
